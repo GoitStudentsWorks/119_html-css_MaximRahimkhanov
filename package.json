@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/yoga-bloom/",
+    "build": "vite build --base=/119_html-css_MaximRahimkhanov/",
     "preview": "vite preview"
   },
   "devDependencies": {
